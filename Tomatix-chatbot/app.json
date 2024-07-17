@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Tomatix-chatbot",
+    "slug": "tomatix-charbot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "edd44ff2-10a7-4873-8ab8-b8d43b11a3b0"
+      }
+    },
+    "owner": "sanchay_m"
+  }
+}
