@@ -1,0 +1,23 @@
+First open cmd in this Directory Folder
+
+commands for frontend:
+
+npm install 
+(to install all packages)
+
+npm start
+(to start the server)
+
+commands for backend:
+
+Open src\Backend in cmd
+
+pip install google-generativeai
+pip install pypdf
+pip install flask
+pip install Flask-Cors
+(to install the packages)
+
+python Read_PDF.py
+
+Once the react server (port 5000) is hosted go to /domainbot and type the question "What is the name of the Student?" and it will provide the answer
